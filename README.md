@@ -47,7 +47,7 @@ Test results can be viewed in the generated HTML report:
 
 As part of the quality assurance process, the system was subjected to rigorous testing. Below is a summary of the defects identified during the testing phase, demonstrating the critical analysis performed.
 
-### 🚩 Critical Defects Identified
+### Defects Identified
 
 #### 1. Invalid Identity Creation (Input Validation)
 *   **Issue**: The system accepts invalid names (e.g., containing spaces incorrectly parsed) and invalid date formats.

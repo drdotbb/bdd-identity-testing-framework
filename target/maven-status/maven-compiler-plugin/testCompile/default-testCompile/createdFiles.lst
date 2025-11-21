@@ -1,0 +1,5 @@
+com\automation\identity\tests\stepdefinitions\IdentityManagerStepDefinitions.class
+com\automation\identity\tests\TestIdentityManager.class
+com\automation\identity\tests\hooks\ScenarioContext.class
+com\automation\identity\tests\runners\CucumberTestRunner.class
+com\automation\identity\tests\hooks\TestHooks.class
